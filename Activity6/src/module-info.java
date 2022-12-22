@@ -5,5 +5,5 @@
  * @author sadha
  *
  */
-module Activity3 {
+module Activity6 {
 }
